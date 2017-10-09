@@ -274,17 +274,17 @@
     "GLOBAL COMSUMPTION" : "CONSOMMATION GLOBALE",
 
     "Join Olfinity" : "Rejoindre Olfinity",
-    "Email can not be empty" : "L'adresse e-mail ne peut pas être vide",    //email不能为空
-    "The password can not be empty" : "Le mot de passe ne peut pas être vide",//密码不能为空
-    "The password is not equal" : "Le mot de passe n'est pas identique",//两次输入的密码不相等
-    "First name can not be empty" : "Le prénom ne peut pas être vide",//first name不能为空
-    "Last name can not be empty" : "Le nom ne peut pas être vide",//last name不能为空
+    "Email can not be empty" : "L'adresse e-mail ne peut pas être vide",
+    "The password can not be empty" : "Le mot de passe ne peut pas être vide",
+    "The password is not equal" : "Le mot de passe n'est pas identique",
+    "First name can not be empty" : "Le prénom ne peut pas être vide",
+    "Last name can not be empty" : "Le nom ne peut pas être vide",
     "Please select country" : "Veuillez choisir le pays",
     "login failed" : "Identification échouée",
     "success" : "Réussi",
     "login failed" : "Identification échouée",
-    "Regist success" : "L'enregistrement réussi",//注册成功
-    "Login Failure, Please check email and password." : "Login Failure, Please check email and password.",//登录失败，请检查email和密码
+    "Regist success" : "L'enregistrement réussi",
+    "Login Failure, Please check email and password." : "Login Failure, Please check email and password.",
     "Updating successful" : "Sauver succès",
     "Updating failed" : "la mise a jour a échoué",
 
