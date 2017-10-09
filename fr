@@ -1,17 +1,14 @@
 {
-  version = "1.0";
-  data = {
-    /*UITabbar*/
+  "version" = "1.0";
+  "data" = {
     "program" = "PROGRAM";
     "history" = "HISTORY";
     "diffusion" = "DIFFUSION";
     "guide" = "GUIDE";
     "settings" = "SETTINGS";
 
-    /*TemperatureViewController*/
     "TemperatureVCTitle" = "Sensor";
 
-    /*待翻译 need to translate !*/
     "Confirm" = "Confirmer";
     "Delete the program" = "Effacer le programme";
     "Are you sure you want to delete this program?" = "Êtes-vous sûr de vouloir supprimer le programme ?";
@@ -29,7 +26,6 @@
     "Connect bluetooth time out." = "Délai de connexion expiré.";
     "Enter duration minutes" = "Entrer la durée en minutes";
 
-    //已核对
     "Start Now" = "Commencer maintenant";
     "The password is not equal" = "le mot de passe n’est pas identique";
     "session(s) done" = "Séance(s)";
@@ -138,8 +134,6 @@
     "thyme" = "Thym";
     "ylang ylang" = "Ylang ylang";
 
-
-    /*已校验过*/
     "Mon" = "L";
     "Tue" = "M";
     "Wed" = "M";
@@ -156,7 +150,6 @@
     "month" = "mois";
     "days" = "jours";
     "Hours of wellbeing" = "Heures de bien-être";
-    //"EXIT" = "SORTIE";
     "Edit" = "Modifier";
     "ONLINE STORE" = "BOUTIQUE EN LIGNE";
     "Get notifications failed." = "Acquisition de notifications échouée.";
@@ -182,20 +175,17 @@
     "Email has been registered!" = "Email enregistré.";
     "%@ is in progress, it will be\n canceled." = "%@ est en cours, il sera\n annulé.";
 
-    /*ACBluetoothOnController.m*/
     "Pairing"="Appairage";
     "To begin,\nturn on Bluetooth\non your iPhone" = "Pour commencer, \nallumer le Bluetooth\nde votre téléphone";
     "Swipe up and\nactivate the Bluetooth" = "Glisser vers le haut et\nactiver le Bluetooth";
     "Jump" = "Sauter";
 
-    /*ACBluetoothPairingController.m*/
     "Searching" = "Recherche";
     "searching..." = "Recherche...";
     "Cancel" = "Annuler";
     "CANCEL" = "ANNULER";
     "connecting ..." = "Connexion";
 
-    /*ACCapsuleClassicModel.m*/
     "Sleep" = "Sommeil";
     "Relex" = "Relex";
     "Boost" = "Tonique";
@@ -204,43 +194,32 @@
     "Pollen" = "Pollen";
     "White" = "Blanche";
 
-    /*ACCapsuleConfigController.m*/
     "Setting\nWhite Capsule" = "Réglages\nCapsule Blanche";
     "The duration is the total time of your session(minutes)" = "La durée est le temps total de votre séance (minutes)";
     "Capsule Name can not be empty." = "Le nom de la Capsule ne peut pas être vide";
     "Connecting bluetooth" = "Connexion au Bluetooth";
     "Send setting failed" = "L'envoi des réglages a échoué";
 
-    /*ACCapsuleListController.m*/
     "THE BLENDS" = "LES SYNERGIES";
     "The blends" = "Les synergies";
 
-    /*ACCapsuleModel.m*/
     "Insert" = "Insérer";
     "Relex" = "Relex";
 
-    /*ACCapsuleSelectController.m*/
     "Which capsule\nwould you like to use?" = "Quelle capsule\nsouhaiteriez-vous diffuser?";
     "Connect failed." = "Connexion échouée";
 
-    /*ACCapusleOverView.m*/
     "Empty Capsule" = "Capsule Vide";
     "Your 10 sessions are over" = "Vos 10 séances sont finies";
     "Insert a new capsule to launch a session" = "Insérer une nouvelle capsule pour lancer une séance";
     "Done" = "Terminé";
 
-
-    /*ACChartViewController.m*/
     "My Consumption" = "Ma Consommation";
     "Global" = "Globale";
     "Click to more precision" = "Cliquer pour plus de précisions";
 
-    /*ACMMCapsuleController*/
     "Used" = "USED";
-    /*ACCoachingCapsuleDes.plist*/
 
-
-    /*NSDictionary*/
     "MEMORY" = "MEMOIRE";
     "The difficulty of remembering a lesson, a date, a name or number, are part of the memory disorders that can increase with stress and fatigue. The Memory capsule boosts your brain with essential oils (mainly Rosemary) to increase concentration during a sustained mental effort, enhance memory and alertness." = "Les difficultés de retenir un cours, une date, un prénom ou un numéro, font partie des troubles de la mémoire et de la concentration fréquents qui peuvent augmenter avec l’âge, le stress ou encore la fatigue. La capsule Mémoire va booster votre cerveau grâce aux huiles essentielles (surtout le Romarin) pour augmenter la concentration lors d’efforts intellectuels soutenus, renforcer la mémoire et la vivacité de l’esprit.";
     "BREATH" = "RESPIRE";
@@ -251,9 +230,7 @@
     "The Boost coaching aims at invigorating you during a 4-week period. To complete this coaching and boost your energy, you will need to follow a given number of sessions using 4 kinds of capsules:" = "Le Boost coaching vise à vous renforcer pendant une période de 4 semaines. Pour compléter ce coaching et booster votre énergie vous devrez suivre un certain nombre de séances en utilisant 4 types de capsules :";
     "BOOST" = "TONIQUE";
     "Physical and mental fatigue disturb the body which ultimately operates at a reduced mode. The Tonic capsule contains an effective blend of essential oils (mainly peppermint and lemon) to help you mobilize your energy resources every day." = "La fatigue physique et mentale perturbent le corps qui fini par fonctionner au ralenti. La capsule Tonique contient une synergie d'huiles essentielles (surtout de menthe poivrée et citron) pour vous aider à mobiliser vos ressources energétiques au quotidien.";
-
-
-    /*NSDictionary*/
+    
     "BREATH" = "RESPIRE";
     "The essential oils blend of the Breath capsule decongestions your lungs, stimulates your immune systems and simply helps you breathe easier whether you have a cold or you just want to maximize your lung capacities." = "Les huiles essentielles de la capsule Respire décongestionnent vos poumons, stimule votre système immunitaire et vous aident tout simplement à mieux respirer que vous ayez un rhume ou souhaitez simplement augmenter les capacités de vos poumons.";
     "POLLEN" = "POLLEN";
@@ -266,8 +243,6 @@
     "Essentials oils in the Tonic capsule help rebalance your body energy and a few tonic sessions during the Air Coaching will boost your bodyâ€™s vitality." = "Les huiles essentielles de la capsule tonique  aident à reéquilibrer l'énergie de votre corps et quelques séances tonique pendant le Air Coaching vont booster la vitalité de votre corps.";
     "The Zen coaching aims at calming your nerves during a 4-week period. To complete this coaching and relax yourself you will need to follow a given number of sessions using 4 kinds of capsules: " = "Le Zen coaching vise a calmer vos nerfs pendant une période de 4 semaines. Pour compléter ce coaching et vous relaxer vous aures besoin de suivre un certain nombre de séances en utilisant 4 types de capsules:";
 
-
-    /*NSDictionary*/
     "MEMORY" = "MEMOIRE";
     "Relaxation needs optimized concentration capacities. This essential oil blend enhances your brain performance and will help you focus on your thoughts and relax." = "La Relaxation efficace a besoin d'optimiser les capacités de concentration. Cette synergie d'huiles essentielles renforce les performances de votre cerveau et vous aidera à vous focaliser sur vos pensées et vous relaxer.";
     "BREATH" = "RESPIRE";
@@ -278,13 +253,8 @@
     "RELEX" = "RELEX";
     "This perfect anxiolytic blend provides calming and relaxing benefits in case of nervousness and irritability.  Its pleasant citrus fruit scent will give you instant pleasure." = "Ce mélange anxiolytique parfait vous apporte des biensfaits relaxants et calmants en cas de nervosité et irritabilité. Son odeur agréable d'agrumes vous donnera du plaisir instantané.";
 
-
-
-    /*ACCoachingChooseHeader.m*/
     "Choose your program \nto improve your wellbeing" = "Choisissez votre programme \npour améliorer votre bien-être";
 
-
-    /*ACCoachingController.m*/
     "Boost Coaching" = "Coaching Boost";
     "Coaching Detail" = "Détail Coaching";
     "Loading..." = "Chargement...";
@@ -293,21 +263,16 @@
     "Failed to get consumption" = "Impossible d'obtenir la consommation";
     "Failed to get coaching consumption" = "Consommation coaching impossible à obtenir";
 
-
-    /*ACCoachingListCell.m*/
     " COACHING" = " COACHING";
     " Coaching" = " Coaching";
 
-    /*ACCoachingProgressHeader.m*/
     "Duration" = "La durée";
     "Progression" = "Progression";
     "Start" = "Commencer ";
     "%ld Days" = "%ld Jours";
 
-    /*ACConsumptionController.m*/
     "GLOBAL COMSUMPTION" = "CONSOMMATION GLOBALE";
 
-    /*ACCreateAccountController.m*/
     "Join Olfinity" = "Rejoindre Olfinity";
     "Email can not be empty" = "L'adresse e-mail ne peut pas être vide";    //email不能为空
     "The password can not be empty" = "Le mot de passe ne peut pas être vide";//密码不能为空
@@ -323,7 +288,6 @@
     "Updating successful" = "Sauver succès";
     "Updating failed" = "la mise a jour a échoué";
 
-    /*ACFlowerModel.m*/
     "Lavander" = "Lavande";
     "lavender" = "Lavande";
     "This essential oil is very much studied for its regulatory properties in the nervous system. It has sedative and anxiolytic properties. It is highly recommended to calm nervousness and fight against sleep disorders, thanks to its active ingredient (linalool) and other active components." = "Cette huile essentielle est très étudiée pour ses propriétés régulatrices du système nerveux et elle possède des propriétés sédatives et anxiolytiques. Elle est très recommandée pour calmer la nervosité et lutter contre les troubles du sommeil, grâce à son principe actif le linalol et autres composants actifs.";
@@ -376,7 +340,6 @@
     "chamomile" = "camomille";
     "Thanks to its antispasmodic, anti-inflammatory, analgesic and calming properties, chamomile essential oil is composed mostly of Angelates isobutyl and isoamyl as well as pinocarvone." = "Grâce à ses propriétés antispasmodiques, anti-inflammatoires, analgésiques et calmantes pour le système nerveux, l’huile essentielle de camomille est composée majoritairement d’Angélates d’isobutyle et d’isoamyle ainsi que de pinocarvone.";
 
-    /*ACLeftMenuController.m*/
     "Start your session" = "Commencer votre séance";
     "Program your session" = "Programmer votre séance";
     "My consumption" = "Ma consommation";
@@ -386,13 +349,11 @@
     "ACLeftMenuImageCell" = "ACImageMenuGaucheCellule";
     "Coming soon" = "Arrive bientôt";
 
-    /*ACLoginController.m*/
     "CONNECTION" = "Connexion";
     "user name can not be empty" = "nom d'utilisateur ne peut pas être vide";
     "message" = "message";
     "Save user info failed" = "Sauvegarde des infos utilisateur a échouée";
 
-    /*ACMyAccountController.m*/
     "SCHELL" = "SCHELL";
     "First name" = "Prénom";
     "Last name" = "Nom";
@@ -402,13 +363,9 @@
     "City" = "Ville";
     "Birth date" = "Date de naissance";
 
-
-    /*ACNoCapsuleView.m*/
     "Capsule Missing" = "Capsule manquante";
     "Insert a capsule to launch a session" = "Insérer une capsule pour lancer une séance";
 
-
-    /*ACPorgramSessionListController.m*/
     "Your saved programs" = "Vos programmes \nsauvegardés";
     "Synchronize program failed" = "Synchronisation du programme a échouée";
     "Synchronizing ..." = "Synchronisation...";
@@ -422,7 +379,6 @@
     "ACPSessionListCell" = "ACPSéanceListeCellule";
     "Bluetooth is not connected now" = "Le Bleutooth n'est pas actuellement connecté";
 
-    /*ACPSessionEditController.m*/
     "PROGRAM SESSION" = "PROGRAMMER UNE SEANCE";
     "Program diffusion" = "Programmer la diffusion";
     "Monday" = "Lundi";
@@ -440,15 +396,11 @@
     "Start diffusion at" = "Début de diffusion";
     "Diffusion of capsule" = "Diffusion de la capsule";
 
-    /*ACSettingController.m*/
     "Settings" = "Réglages";
 
-    /*ACWhiteCapsuleStepController.m*/
     "Capsule Infos" = "Infos Capsules";
     "THE WHITE CAPSULE" = "LA CAPSULE BLANCHE";
 
-    /***********************now*/
-    /*ACWhiteStepModel.m*/
     "STEP 1" = "ETAPE 1";
     "FILL THE VIAL WITH BEADS" = "REMPLIR LE FLACON AVEC LES BILLES";
     "Take the bag of beads and pour it into the glass vial. Fill the vial with your blend or essential oil." = "Prenez un sachet de billes et versez-le dans le récipient en verre. Remplissez le récipient avec votre mélange ou votre huile essentielle.";
