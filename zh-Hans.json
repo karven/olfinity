@@ -1,6 +1,6 @@
 {
-  version = "1.0";
-  data = {
+  "version" = "1.0";
+  "data" = {
     "program" = "PROGRAM";
     "history" = "HISTORY";
     "diffusion" = "DIFFUSION";
@@ -10,7 +10,6 @@
     /*TemperatureViewController*/
     "TemperatureVCTitle" = "Sensor";
 
-    /*新增，需要校验*/
     "Capusle %ld - %@" = "胶囊 %ld - %@";
     "Confirm" = "确定";
     "Delete the program" = "删除计划";
@@ -27,7 +26,6 @@
     "Enter duration minutes" = "请输入时长（以分钟计算）";
     "Connect bluetooth time out." = "连接蓝牙超时";
 
-    /*已校验过的*/
     "Start Now" = "现在开始";
     "target times" = "目标疗程次数";
     "Sure to Exit?" = "确定退出吗?";
