@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "data" : {
     "program" : "PROGRAM",
     "history" : "HISTORY",
@@ -142,7 +142,7 @@
     "Sat" : "S",
     "Sun" : "D",
 
-    "Insert" : "Insérer",
+    "Insert" : "Insérer123",
     " ADD A NEW PROGRAM" : " AJOUTER UN NOUVEAU PROGRAMME",
     "Consumption" : "Consommation",
     "START" : "COMMENCER",
