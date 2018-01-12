@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.0.1",
   "data" : {
     "program" : "PROGRAM",
     "history" : "HISTORY",
@@ -89,7 +89,7 @@
     "Yes" : "Yes",
     "save failed" : "save failed",
 
-    "Insert" : "Insert",
+    "Insert" : "Insert_T",
     " ADD A NEW PROGRAM" : " ADD A NEW PROGRAM",
     "Consumption" : "Consumption",
     "START" : "START",
