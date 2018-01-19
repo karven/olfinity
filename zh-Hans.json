@@ -81,7 +81,8 @@
     "Which capsule?" : "设置胶囊位置",
     "Name your program?" : "命名我的疗程:",
     "Save" : "储存",
-    "Diffusion of capsule" : "胶囊香薰",
+    "Diffusion of capsule Top" : "上位胶囊",
+    "Diffusion of capsule Bottom" : "下位胶囊",
     "My alarm clock Tonic" : "我的闹钟计划",
     "The essentials" : "精油",
     "THE ESSENTIALS" : "精油",
@@ -183,6 +184,7 @@
     "Pairing":"匹配",
     "To begin,\nturn on Bluetooth\non your iPhone" : "首先 \n请在手机上\n打开蓝牙",
     "Swipe up and\nactivate the Bluetooth" : "向上滑 \n打开蓝牙",
+    "Swipe down and\nactivate the Bluetooth" : "向下滑 \n打开蓝牙",
     "Jump" : "跳",
 
     "Searching" : "正在搜寻",
