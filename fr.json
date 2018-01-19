@@ -1,5 +1,5 @@
 {
-  "version" : "1.1",
+  "version" : "1.0",
   "data" : {
     "program" : "PROGRAM",
     "history" : "HISTORY",
@@ -142,7 +142,7 @@
     "Sat" : "S",
     "Sun" : "D",
 
-    "Insert" : "Insérer123",
+    "Insert" : "Insérer",
     " ADD A NEW PROGRAM" : " AJOUTER UN NOUVEAU PROGRAMME",
     "Consumption" : "Consommation",
     "START" : "COMMENCER",
@@ -178,6 +178,7 @@
     "Pairing":"Appairage",
     "To begin,\nturn on Bluetooth\non your iPhone" : "Pour commencer, \nallumer le Bluetooth\nde votre téléphone",
     "Swipe up and\nactivate the Bluetooth" : "Glisser vers le haut et\nactiver le Bluetooth",
+    "Swipe down and\nactivate the Bluetooth" : "Glissez vers le bas pour et\nactiver le Bluetooth",
     "Jump" : "Sauter",
 
     "Searching" : "Recherche",
@@ -221,37 +222,36 @@
     "Used" : "USED",
 
     "MEMORY" : "MEMOIRE",
-    "The difficulty of remembering a lesson, a date, a name or number, are part of the memory disorders that can increase with stress and fatigue. The Memory capsule boosts your brain with essential oils (mainly Rosemary) to increase concentration during a sustained mental effort, enhance memory and alertness." : "Les difficultés de retenir un cours, une date, un prénom ou un numéro, font partie des troubles de la mémoire et de la concentration fréquents qui peuvent augmenter avec l’âge, le stress ou encore la fatigue. La capsule Mémoire va booster votre cerveau grâce aux huiles essentielles (surtout le Romarin) pour augmenter la concentration lors d’efforts intellectuels soutenus, renforcer la mémoire et la vivacité de l’esprit.",
+      "The difficulty of remembering a lesson, a date, a name or number, are part of the memory disorders that can increase with stress and fatigue. The Memory capsule boosts your brain with essential oils (mainly Rosemary) to increase concentration during a sustained mental effort, enhance memory and alertness." : "La capsule Mémoire et sa synergie d’huiles essentielles vous permettra de booster votre cerveau notamment grâce au Romarin à Cinéole. Elle vous permettra d’augmenter votre concentration lors d’efforts intellectuels soutenus.",
     "BREATH" : "RESPIRE",
-    "The Breath capsule will help you breathe easier and thanks to the eucalyptus and rosemary essential oils, your body and mind will be stimulated to help you fight against fatigue." : "La capsule Respire vous aidera à respirer et grâce aux huiles essentielles d'eucalyptus radié et de romarin, votre corps et esprit seront stimulés pour vous aider à combattre la fatigue.",
+      "The Breath capsule will help you breathe easier and thanks to the eucalyptus and rosemary essential oils, your body and mind will be stimulated to help you fight against fatigue." : "La capsule Respire contient une synergie d’huiles essentielles stimulante pour le système respiratoire et participera activement à tonifier votre organisme.",
     "SLEEP" : "SOMMEIL",
-    "Physical and mental fatigue can also result from bad sleeping habits and stress. The Sleep capsule help you have a good night’s sleep and recharge your batteries with a blend of sedative, relaxing and lightly hypnotic essential oils." : "La fatigue physique et mentale peut être responsables de stress et de mauvaises habitudes de sommeil. La capsule Sommeil vous aide à passer une bonne nuit de sommeil et à recharger vos batteries avec une synergies d'huiles essentielles sédatives, relaxantes et légèrement hypnotiques.",
-    "description" : "La fatigue physique et mentale peuvent être responsables de stress et de mauvaises habitudes de sommeil. La capsule Sommeil vous aide à passer une bonne nuit de sommeil  et à recharger vos batteries avec une synergies d'huiles essentielles sédatives, relaxantes et légèrement hypnotiques.",
+    "Physical and mental fatigue can also result from bad sleeping habits and stress. The Sleep capsule help you have a good night’s sleep and recharge your batteries with a blend of sedative, relaxing and lightly hypnotic essential oils." : "La fatigue physique et mentale perturbe le corps et l’esprit qui finissent par fonctionner au ralenti. La capsule Tonique contient une synergie d’huiles essentielles revitalisante et tonifiante pour vous aider à mobiliser vos ressources énergétiques au quotidien.",
+      "description" : "La capsule Sommeil vous permet de passer des nuits calmes et paisibles grâce à ses effets anxiolytiques. Passer une bonne nuit de sommeil participera à vous maintenir en forme pendant tout votre journée.",
     "The Boost coaching aims at invigorating you during a 4-week period. To complete this coaching and boost your energy, you will need to follow a given number of sessions using 4 kinds of capsules:" : "Le Boost coaching vise à vous renforcer pendant une période de 4 semaines. Pour compléter ce coaching et booster votre énergie vous devrez suivre un certain nombre de séances en utilisant 4 types de capsules :",
     "BOOST" : "TONIQUE",
     "Physical and mental fatigue disturb the body which ultimately operates at a reduced mode. The Tonic capsule contains an effective blend of essential oils (mainly peppermint and lemon) to help you mobilize your energy resources every day." : "La fatigue physique et mentale perturbent le corps qui fini par fonctionner au ralenti. La capsule Tonique contient une synergie d'huiles essentielles (surtout de menthe poivrée et citron) pour vous aider à mobiliser vos ressources energétiques au quotidien.",
     
     "BREATH" : "RESPIRE",
-    "The essential oils blend of the Breath capsule decongestions your lungs, stimulates your immune systems and simply helps you breathe easier whether you have a cold or you just want to maximize your lung capacities." : "Les huiles essentielles de la capsule Respire décongestionnent vos poumons, stimule votre système immunitaire et vous aident tout simplement à mieux respirer que vous ayez un rhume ou souhaitez simplement augmenter les capacités de vos poumons.",
+      "The essential oils blend of the Breath capsule decongestions your lungs, stimulates your immune systems and simply helps you breathe easier whether you have a cold or you just want to maximize your lung capacities." : "La synergie d’huiles essentielles contenue dans la capsule Respire, vous aidera a décongestionner vos poumons et stimulera votre système immunitaire. Cette capsule peut être utilisée pour calmer les symptômes liés au Rhume ou simplement pour libérer le système respiratoire.",
     "POLLEN" : "POLLEN",
-    "Originally conceived for a use during spring time, the Pollen capsule can be used during this coaching as its essential oils re-enforce the immune system and decongestion the airways." : "Initialement conçue pour une utilisation pendant le printemps, la capsule Pollen peut-être utilisée pendant ce coaching parce que les huiles essentielles présentes, renforcent le système immunitaire et décongestionnent the voies aériennes.",
+      "Originally conceived for a use during spring time, the Pollen capsule can be used during this coaching as its essential oils re-enforce the immune system and decongestion the airways." : "Initialement conçue pour lutter contre les allergies printanières, la capsule Pollen possède des vertus décongestionnantes des voies aériennes ce qui favorisera la libération de votre système respiratoire.",
     "MEMORY" : "MEMOIRE",
-    "Rosemary and Sylvester pine essential oils stimulate and invigorate the nervous system. Sylvester pine essential oil in particular, helps breathe easier as it has expectorant and decongestant properties." : "Les huiles essentielles de Romarin et de Pin Sylvestre stimulent et renforcent le système nerveux. L'huile de pin sylvestre en particulier, vous aide à mieux respirer car elle possède des propriétés expectorantes et décongestionnantes.",
+      "Rosemary and Sylvester pine essential oils stimulate and invigorate the nervous system. Sylvester pine essential oil in particular, helps breathe easier as it has expectorant and decongestant properties." : "La capsule Mémoire possède des propriétés expectorantes et décongestionnantes notamment grâce aux huiles de Pin Sylvestre et Romarin. Elle participera activement à libérer votre système respiratoire.",
     "description" : "déscription",
     "The Air coaching aims at clearing your lungs during a 2-week period. To complete this coaching and breathe easier, you will need to follow a given number of sessions using 4 kinds of capsules:" : "Le Air coaching vise à nettoyer vos poumons pendant une période de 2 semaines. Pour compléter ce coaching et respirer plus facilement, vous aurez besoin de suivre un certain nombre de sessions en utilisant 4 capsules :",
     "BOOST" : "TONIQUE",
-    "Essentials oils in the Tonic capsule help rebalance your body energy and a few tonic sessions during the Air Coaching will boost your bodyâ€™s vitality." : "Les huiles essentielles de la capsule tonique  aident à reéquilibrer l'énergie de votre corps et quelques séances tonique pendant le Air Coaching vont booster la vitalité de votre corps.",
-    "The Zen coaching aims at calming your nerves during a 4-week period. To complete this coaching and relax yourself you will need to follow a given number of sessions using 4 kinds of capsules: " : "Le Zen coaching vise a calmer vos nerfs pendant une période de 4 semaines. Pour compléter ce coaching et vous relaxer vous aures besoin de suivre un certain nombre de séances en utilisant 4 types de capsules:",
-
+      "Essentials oils in the Tonic capsule help rebalance your body energy and a few tonic sessions during the Air Coaching will boost your bodyâ€™s vitality." : "La capsule Tonique apporte vitalité et boostera votre système respiratoire pendant votre Air coaching.",
+      "The Zen coaching aims at calming your nerves during a 4-week period. To complete this coaching and relax yourself you will need to follow a given number of sessions using 4 kinds of capsules: " : "Le Zen Coaching vise à calmer vos nerfs et vous apaiser sur une période de 4 semaines. Pour compléter ce coaching et vous relaxer vous aurez besoin de suivre un nombre précis de séances en utilisant 4 types de capsules:",
     "MEMORY" : "MEMOIRE",
-    "Relaxation needs optimized concentration capacities. This essential oil blend enhances your brain performance and will help you focus on your thoughts and relax." : "La Relaxation efficace a besoin d'optimiser les capacités de concentration. Cette synergie d'huiles essentielles renforce les performances de votre cerveau et vous aidera à vous focaliser sur vos pensées et vous relaxer.",
+      "Relaxation needs optimized concentration capacities. This essential oil blend enhances your brain performance and will help you focus on your thoughts and relax." : "La capsule Mémoire vous permettra de faire le vide et vous aidera à vous focaliser sur vos pensées afin de vous détendre et de vous évader.",
     "BREATH" : "RESPIRE",
-    "Deep breathing highly potentiates relaxation and reduces stress. Breathing sessions during the Zen Coaching will be powerful techniques to help de-stress." : "La respiration profonde potentialise la relaxation et réduit le stress. Les séances de respiration pendant le Zen Coaching seront très efficaces pour vous aider à destresser.",
+      "Deep breathing highly potentiates relaxation and reduces stress. Breathing sessions during the Zen Coaching will be powerful techniques to help de-stress." : "Réaliser des séances Respire pendant votre Zen Coaching vous permettra de vous apaiser. En effet une respiration profonde et calme potentialise la relaxation et réduit le stress.",
     "SLEEP" : "SOMMEIL",
-    "Conceived with the perfectly relaxing blend, the Sleep capsule is recommended for providing you calming and soothing benefits against anxiety and agitation which can disturb your sleeping habits." : "Conçue avec le mélange relaxant parfait,la capsule Sommeil est recommandée pour vous procurer des bénéfices calmants et relaxant contre l'anxiété et l'agitation qui perturbent vos habitudes de sommeil.",
+      "Conceived with the perfectly relaxing blend, the Sleep capsule is recommended for providing you calming and soothing benefits against anxiety and agitation which can disturb your sleeping habits." : "Composée d’huiles essentielles calmantes et relaxantes, la capsule Sommeil procure apaisement et sérénité. Elle permet de faire baisser l’anxiété et l’agitation et ainsi passer de meilleures nuits pour se sentir moins stresser au réveil.",
     "description" : "déscription",
     "RELEX" : "RELEX",
-    "This perfect anxiolytic blend provides calming and relaxing benefits in case of nervousness and irritability.  Its pleasant citrus fruit scent will give you instant pleasure." : "Ce mélange anxiolytique parfait vous apporte des biensfaits relaxants et calmants en cas de nervosité et irritabilité. Son odeur agréable d'agrumes vous donnera du plaisir instantané.",
+      "This perfect anxiolytic blend provides calming and relaxing benefits in case of nervousness and irritability.  Its pleasant citrus fruit scent will give you instant pleasure." : "La synergie d’huiles essentielles contenue dans la capsule Zen a des effets anxiolytiques et relaxants. Sa douce odeur d’agrumes vous aidera à vous apaiser rapidement.",
 
     "Choose your program \nto improve your wellbeing" : "Choisissez votre programme \npour améliorer votre bien-être",
 
@@ -395,7 +395,6 @@
     "No white capsule found." : "Aucune capsule blanche trouvée",
     "Start diffusion at" : "Début de diffusion",
     "Diffusion of capsule" : "Diffusion de la capsule",
-
     "Settings" : "Réglages",
 
     "Capsule Infos" : "Infos Capsules",
