@@ -1,5 +1,5 @@
 {
-  "version" : "1.0.1",
+  "version" : "1.0",
   "data" : {
     "program" : "PROGRAM",
     "history" : "HISTORY",
@@ -89,7 +89,7 @@
     "Yes" : "Yes",
     "save failed" : "save failed",
 
-    "Insert" : "Insert_T",
+    "Insert" : "Insert",
     " ADD A NEW PROGRAM" : " ADD A NEW PROGRAM",
     "Consumption" : "Consumption",
     "START" : "START",
@@ -172,6 +172,7 @@
     "Pairing":"Pairing",
     "To begin,\nturn on Bluetooth\non your iPhone" : "To begin,\nturn on Bluetooth\non your iPhone",
     "Swipe up and\nactivate the Bluetooth" : "Swipe up and\nactivate the Bluetooth",
+    "Swipe down and\nactivate the Bluetooth" : "Swipe down and\nactivate the Bluetooth",
     "Jump" : "Jump",
     "You have reached the maximum program number." : "You have reached the maximum program number.",
 
