@@ -25,7 +25,9 @@
     "This email address has been registed" : "This email address has been registed",
     "Temporarily not opened" : "Temporarily not opened",
 
-    "Clicking Next, you agree to our Terms and Conditions and have read and understand our Privacy Policy" : "Clicking Next, you agree to our Terms and Conditions and have read and understand our Privacy Policy",
+    "By clicking \"Done\", you accept our Terms and Conditions and Privacy Policy." : "By clicking \"Done\", you accept our Terms and Conditions and Privacy Policy.",
+    "Privacy Policy" : "Privacy Policy",
+    "Terms and Conditions" : "Terms and Conditions",
     "In Progress" : "In Progress",
     "one month" : "one month",
     "session(s) done" : "session(s) done",
@@ -104,6 +106,7 @@
     "Email has been registered!" : "Email has been registered!",
     "Connection successful" : "Connection successful",
     "Done" : "Done",
+    "JoinAromaDone" : "Done",
     "Next" : "Next",
     "SESSIONS" : "SESSIONS",
     "SESSION(S)" : "SESSION(S)",
@@ -270,7 +273,7 @@
 
     "GLOBAL COMSUMPTION" : "GLOBAL COMSUMPTION",
 
-    "Join Olfinity" : "Join Olfinity",
+    "Join AromaCare" : "Join AromaCare",
     "Email can not be empty" : "Email can not be empty",
     "The password can not be empty" : "The password can not be empty",
     "The password is not equal" : "The password is not equal",
