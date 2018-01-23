@@ -12,7 +12,7 @@
     "Confirm" : "Confirmer",
     "Delete the program" : "Effacer le programme",
     "Are you sure you want to delete this program?" : "Êtes-vous sûr de vouloir supprimer le programme ?",
-    "Delete" : "Annuler",
+    "Delete" : "Supprimer",
 
     "Update user info failed" : "la mise a jour a échoué",
     "You still have %ld sessions available, 20 minutes per session" : "Il vous reste %ld séance(s) de 20 minutes disponible(s)",
@@ -36,8 +36,9 @@
     "You have just completed your 10th session! Please note the %@ capsule" : "vous venez de completer votre 10ème séance! Veuillez noter %@ capsule",
     "save failed" : "enregistrement échoué",
     "You have reached the maximum program number." : "vous avez atteint le nombre maximum du programme.",
-    "Clicking Next, you agree to our Terms and Conditions and have read and understand our Privacy Policy" : "cliquer suivant, vous êtes d’accord avec nos termes et conditions, et vous avez lu et comprenez notre politique de confidentialité",
-
+    "By clicking \"Done\", you accept our Terms and Conditions and Privacy Policy." : "En cliquant sur « Terminer », vous acceptez nos Conditions générales d'utilisation et notre Politique de confidentialité.",
+    "Privacy Policy" : "Politique de confidentialité",
+    "Terms and Conditions" : "Conditions générales d'utilisation",
 
     "Password" : "Mot de passe",
     "one month" : "un mois",
@@ -158,6 +159,7 @@
     "Connection successful" : "Connexion Réussie",
     "CONNECTION" : "Connexion",
     "Done" : "Terminé",
+    "JoinAromaDone" : "Terminer",
     "Next" : "Suite",
     "SESSIONS" : "SEANCES",
     "SESSION(S)" : "SÉANCE(S)",
@@ -273,7 +275,7 @@
 
     "GLOBAL COMSUMPTION" : "CONSOMMATION GLOBALE",
 
-    "Join Olfinity" : "Rejoindre Olfinity",
+    "Join AromaCare" : "Rejoindre AromaCare",
     "Email can not be empty" : "L'adresse e-mail ne peut pas être vide",
     "The password can not be empty" : "Le mot de passe ne peut pas être vide",
     "The password is not equal" : "Le mot de passe n'est pas identique",
