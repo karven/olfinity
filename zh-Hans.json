@@ -11,6 +11,7 @@
 
     "Capusle %ld - %@" : "胶囊 %ld - %@",
     "Confirm" : "确定",
+    "JoinAromaDone" : "确认",
     "Delete the program" : "删除计划",
     "Are you sure you want to delete this program?" : "确定删除该计划?",
     "Delete" : "删除",
@@ -33,7 +34,9 @@
 
 
     "Are you sure you want to\nstart %@ coaching?" : "确定开启\n%@ 私教课程?",
-    "Clicking Next, you agree to our Terms and Conditions and have read and understand our Privacy Policy" : "选择下一页，表示您同意我方条款条约，以及已阅读并知悉我方隐私政策。",
+    "By clicking \"Done\", you accept our Terms and Conditions and Privacy Policy." : "点击“确认”后自动视为您同意我方条款条约和隐私政策。",
+    "Privacy Policy" : "隐私政策",
+    "Terms and Conditions" : "条款条约",
     "session(s) done" : "疗程完成",
     "one month" : "一个月的疗程",
     "In Progress" : "进行中",
@@ -87,7 +90,7 @@
     "The essentials" : "精油",
     "THE ESSENTIALS" : "精油",
     "The blends" : "协同技术",
-    "RELEX" : "静心香薰",
+    "ZEN" : "静心香薰",
     "days" : "天",
 
     "You can not schedule 2 sessions at the same time" : "不可以在同一时间段开启两个疗程",
@@ -194,7 +197,7 @@
     "connecting ..." : "正在连接...",
 
     "Sleep" : "安神",
-    "Relex" : "静心",
+    "Zen" : "静心",
     "Boost" : "醒神",
     "Memory" : "健脑",
     "Breath" : "呼吸",
@@ -209,7 +212,7 @@
     "THE BLENDS" : "协同技术",
 
     "Insert" : "放入胶囊",
-    "Relex" : "静心",
+    "Zen" : "静心",
     "Used" : "USED",
     "Which capsule\nwould you like to use?" : "请问您想要使用\n哪一款胶囊",
     "Connect failed." : "连接失败",
@@ -252,7 +255,7 @@
     "SLEEP" : "安神香薰",
     "Conceived with the perfectly relaxing blend, the Sleep capsule is recommended for providing you calming and soothing benefits against anxiety and agitation which can disturb your sleeping habits." : "安神香薰胶囊完美地混合了令人放松的精油。它可使您平静和舒缓情绪，可更正您不良的睡眠习惯。",
     "description" : "déscription",
-    "RELEX" : "静心香薰",
+    "ZEN" : "静心香薰",
     "This perfect anxiolytic blend provides calming and relaxing benefits in case of nervousness and irritability.  Its pleasant citrus fruit scent will give you instant pleasure." : "这种完美的抗焦虑混合物在紧张和烦躁的情况下能使人静心和放松。其令人身心愉快的柑橘水果香味会立即让您感受到快乐。",
 
     "Choose your program \nto improve your wellbeing" : "请选择您的疗程 \n让您更健康",
@@ -279,7 +282,7 @@
 
     "GLOBAL COMSUMPTION" : "总疗程记录",
 
-    "Join Olfinity" : "加入Olfinity",
+    "Join AromaCare" : "加入AromaCare",
     "Email can not be empty" : "电子邮件不能为空",
     "The password can not be empty" : "密码不能为空",
     "The password is not equal" : "两次输入的密码不一致",
